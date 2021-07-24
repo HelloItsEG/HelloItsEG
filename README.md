@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HelloItsEG
-- 👀 I’m interested in coding,gaming and music
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me i dont know lol if you have discord then- EG#4289
+- 👀 I’m interested in- coding,gaming and music
+- 🌱 I’m currently learning- javascript
+- 📫 How to reach me- i dont know lol if you have discord then- EG#4289
 
 <!---
 HelloItsEG/HelloItsEG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
